@@ -70,6 +70,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I began working of this project as a UI Developer, implementing features and UIs, using <mark>C++</mark> and <mark>WPF</mark> (with the NoesisGUI layer for the interface).
           Later on the project, I swapped roles to become a Technical UI designer, helping iterations for faster for the designs and prototypes, and making the link between the teams thanks to my knowledge of the code base.
+          
       - layout: top-middle
         title: Divinity Original Sin II
         link: divinity.game
@@ -96,7 +97,8 @@ content:
         quote: >
           Designing and implementing features (while supporting other team members)
         description: | # this will include new lines to allow paragraphs
-            After being noticed on my work and my method on one of the main features I implemented for Baldur's Gate III, I joined the UI/UX Design department as a Technical UI Designer, putting my knowledge from the code side and supporting fellow designers with this knowledge, helping with estimations and what needs to be done, while learning the ropes about UI and UX design.
+            After being noticed on my work and my method on one of the main features I implemented for [Baldur's Gate III](https://baldursgate3.game/), I joined the UI/UX Design department as a Technical UI Designer, putting my knowledge from the code side and supporting fellow designers with this knowledge, helping with estimations and what needs to be done, while learning the ropes about UI and UX design.
+            
       - layout: left
         title: Game Jam de Québec
         link: gamejamdequebec.ca
@@ -105,7 +107,8 @@ content:
         quote: >
           The playground of game devs in Québec City
         description: | # this will include new lines to allow paragraphs
-            After the COVID-19 Pandemic, with some friends we decided to host and create a physical Game Jam within Québec City, to restore the sparks and conviviality of the video game industry in Québec City.      
+            After the COVID-19 Pandemic, with some friends we decided to host and create a physical Game Jam within Québec City, to restore the sparks and conviviality of the video game industry in Québec City.     
+            
       - layout: left
         title: Larian Studios Québec
         link: larian.com
@@ -114,7 +117,8 @@ content:
         quote: >
           Implementing UIs and game features
         description: | # this will include new lines to allow paragraphs
-            My main work on Baldur's Gate III is implementing the User Interfaces, working closely with the designers and the other team members, always ready to give hand and feedback to improve the original designs.  
+            My main work on [Baldur's Gate III](https://baldursgate3.game/) is implementing the User Interfaces, working closely with the designers and the other team members, always ready to give hand and feedback to improve the original designs.
+            
       - layout: left
         title: Larian Studios Ghent
         link: larian.com
@@ -123,7 +127,8 @@ content:
         quote: >
           First steps in the game industry and discovering Gameplay and UI programmer jobs (and breaking my first builds).
         description: | # this will include new lines to allow paragraphs
-            During my internship at Larian, I discovered how the game development works on a bigger scale, making my first implementations and contributions in Divinity: Original Sin 2, then later in Baldur's Gate III.
+            During my internship at Larian, I discovered how the game development works on a bigger scale, making my first implementations and contributions in [Divinity: Original Sin 2](https://divinity.game/), then later in [Baldur's Gate III](https://baldursgate3.game/).
+            
       - layout: left
         title: E.C.D.C Arcadémie
         sub_title: Unity developer internship
@@ -172,7 +177,7 @@ content:
 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
