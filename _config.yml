@@ -58,7 +58,6 @@ content:
       - layout: top-middle
         title: Baldur's Gate III
         link: baldursgate3.game
-        link_text: Game's website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fa-solid fa-gamepad-modern
@@ -71,11 +70,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           I began working of this project as a UI Developer, implementing features and UIs, using <mark>C++</mark> and <mark>WPF</mark> (with the NoesisGUI layer for the interface).
           Later on the project, I swapped roles to become a Technical UI designer, helping iterations for faster for the designs and prototypes, and making the link between the teams thanks to my knowledge of the code base.
-          
       - layout: top-middle
-        title: Divinity: Original Sin II
+        title: Divinity Original Sin II
         link: divinity.game
-        link_text: Game's website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fa-solid fa-gamepad-modern
@@ -100,7 +97,6 @@ content:
           Designing and implementing features (while supporting other team members)
         description: | # this will include new lines to allow paragraphs
             After being noticed on my work and my method on one of the main features I implemented for Baldur's Gate III, I joined the UI/UX Design department as a Technical UI Designer, putting my knowledge from the code side and supporting fellow designers with this knowledge, helping with estimations and what needs to be done, while learning the ropes about UI and UX design.
-            
       - layout: left
         title: Game Jam de Québec
         link: gamejamdequebec.ca
@@ -109,8 +105,7 @@ content:
         quote: >
           The playground of game devs in Québec City
         description: | # this will include new lines to allow paragraphs
-            After the COVID-19 Pandemic, with some friends we decided to host and create a physical Game Jam within Québec City, to restore the sparks and conviviality of the video game industry in Québec City.
-            
+            After the COVID-19 Pandemic, with some friends we decided to host and create a physical Game Jam within Québec City, to restore the sparks and conviviality of the video game industry in Québec City.      
       - layout: left
         title: Larian Studios Québec
         link: larian.com
@@ -119,8 +114,7 @@ content:
         quote: >
           Implementing UIs and game features
         description: | # this will include new lines to allow paragraphs
-            My main work on Baldur's Gate III is implementing the User Interfaces, working closely with the designers and the other team members, always ready to give hand and feedback to improve the original designs.
-            
+            My main work on Baldur's Gate III is implementing the User Interfaces, working closely with the designers and the other team members, always ready to give hand and feedback to improve the original designs.  
       - layout: left
         title: Larian Studios Ghent
         link: larian.com
@@ -130,7 +124,6 @@ content:
           First steps in the game industry and discovering Gameplay and UI programmer jobs (and breaking my first builds).
         description: | # this will include new lines to allow paragraphs
             During my internship at Larian, I discovered how the game development works on a bigger scale, making my first implementations and contributions in Divinity: Original Sin 2, then later in Baldur's Gate III.
-            
       - layout: left
         title: E.C.D.C Arcadémie
         sub_title: Unity developer internship
@@ -151,7 +144,6 @@ content:
           During my time of my Master's Degree, I specialized my computer science skills into Graphics, Image Processing and Video Games development, learning mostly to manage small projects and working as a team with deadlines.
           
           Outside the university, I spent most of my free time attending to the MUUG (Montpellier Unity User Group) to attend monthly talks related to video games, and participating to any game jam I could, creating my bases for the video game industry and having a little knowledge in most of the fields that the video game industry cover, facilitating communicaiton.
-          
       - layout: left
         title: University of the West of Scotland
         caption: 2015 - 2016
@@ -159,8 +151,7 @@ content:
         description: |
           During my time in Scotland, I learned how to handle projects and team working, as well improving my english and my communitcation skills.
           
-          Outside the university, I spent most of my free time visiting Scotland, learning a new culture and discovering the world from another perspective. But mostly, spending time at the comic shop, practicing my English and playing Dungeons & Dragons, making me think, tell stories and working with a group to achieve our goals.
-          
+          Outside the university, I spent most of my free time visiting Scotland, learning a new culture and discovering the world from another perspective. But mostly, spending time at the comic shop, practicing my English and playing Dungeons & Dragons, making me think, tell stories and working with a group to achieve our goals.  
       - layout: left
         title: University of Aix-Marseille
         caption: 2013 - 2015
