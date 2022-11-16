@@ -43,13 +43,13 @@ linkedin_username: benoitbm
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hello! My name is Benoit and I'm a Technical UI Designer. As well as designing elements, with my computer science background and programming skills, I can design but also implement (or help implementing) new features. My variety of skills and empathy emphasizes teamwork and helps making the project development going smoothly.
+# about_profile_image: images/profile.jpg
+# about_content: | # this will include new lines to allow paragraphs
+#   Hello! My name is Benoit and I'm a Technical UI Designer. As well as designing elements, with my computer science background and programming skills, I can design but also implement (or help implementing) new features. My variety of skills and empathy emphasizes teamwork and helps making the project development going smoothly.
 
-  I am most skilled in: <mark>C++</mark> and <mark>WPF</mark>.
+#   I am most skilled in: <mark>C++</mark> and <mark>WPF</mark>.
 
-  My pronouns are: They/Them/Their.
+#   My pronouns are: They/Them/Their.
 
 content:
   - title: Projects # Title for the section
