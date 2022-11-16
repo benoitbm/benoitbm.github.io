@@ -58,25 +58,20 @@ content:
       - layout: top-middle
         title: Baldur's Gate III
         link: baldursgate3.game
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Gather your party, and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power.
         description: | # this will include new lines to allow paragraphs
           I began working of this project as a UI Developer, implementing features and UIs, using <mark>C++</mark> and <mark>WPF</mark> (with the NoesisGUI layer for the interface).
-          Later on the project, I swapped roles to become a Technical UI designer, helping iterations for faster for the designs and prototypes, and making the link between the teams thanks to my knowledge of the code base.
+          
+          Later on the project, I swapped roles to become a Technical UI designer, helping faster iterations for the designs and prototypes, and making the link between the teams thanks to my knowledge of the code base and D&D.
 
       - layout: top-middle
         title: Divinity Original Sin II
         link: divinity.game
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           The Divine is dead. The Void approaches. And the powers lying dormant within you are soon to awaken. The battle for Divinity has begun. Choose wisely and trust sparingly; darkness lurks within every heart.
         description: | # this will include new lines to allow paragraphs
-          My first contribution to a video game industry as a professional! I worked on improving the UIs and improving the gamepad UIs, while implementing new quality of life tickets, fixing bugs, and improving the Razer Chroma implementation.
+          I worked on improving the UIs (and especially the gamepad ones), along implementing new qualities of life, fixing bugs, and improving the Razer Chroma implementation.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -109,7 +104,7 @@ content:
         quote: >
           Implementing UIs and game features
         description: | # this will include new lines to allow paragraphs
-          My main work on [Baldur's Gate III](https://baldursgate3.game/) is implementing the User Interfaces, working closely with the designers and the other team members, always ready to give hand and feedback to improve the original designs.
+          My main work on [Baldur's Gate III](https://baldursgate3.game/) is implementing the User Interfaces, working closely with the designers and the other team members, always ready to give a hand and feedback to improve the original designs.
 
       - layout: left
         title: Larian Studios Ghent
