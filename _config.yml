@@ -8,20 +8,20 @@ version: 1
 # Personal info
 name: Benoit Boyer
 title: Technical UI Designer
-email: benoitbm[at]hotmail.fr 
+email: benoitbm[at]hotmail.fr
 website: www.benoitbm.fr
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-#twitter_username: 
+#twitter_username:
 github_username:  benoitbm
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: 
+#instagram_username:
 linkedin_username: benoitbm
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -48,7 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hello! My name is Benoit and I'm a Technical UI Designer. As well as designing elements, with my computer science background and programming skills, I can design but also implement (or help implementing) new features. My variety of skills and empathy emphasizes teamwork and helps making the project development going smoothly.
 
   I am most skilled in: <mark>C++</mark> and <mark>WPF</mark>.
-  
+
   My pronouns are: They/Them/Their.
 
 content:
@@ -62,7 +62,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Gather your party, and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. 
+          Gather your party, and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power.
         description: | # this will include new lines to allow paragraphs
           I began working of this project as a UI Developer, implementing features and UIs, using <mark>C++</mark> and <mark>WPF</mark> (with the NoesisGUI layer for the interface).
           Later on the project, I swapped roles to become a Technical UI designer, helping iterations for faster for the designs and prototypes, and making the link between the teams thanks to my knowledge of the code base.
@@ -89,7 +89,7 @@ content:
         quote: >
           Designing and implementing features (while supporting other team members)
         description: | # this will include new lines to allow paragraphs
-            After being noticed on my work and my method on one of the main features I implemented for [Baldur's Gate III](https://baldursgate3.game/), I joined the UI/UX Design department as a Technical UI Designer, putting my knowledge from the code side and supporting fellow designers with this knowledge, helping with estimations and what needs to be done, while learning the ropes about UI and UX design.
+          After being noticed on my work and my method on one of the main features I implemented for [Baldur's Gate III](https://baldursgate3.game/), I joined the UI/UX Design department as a Technical UI Designer, putting my knowledge from the code side and supporting fellow designers with this knowledge, helping with estimations and what needs to be done, while learning the ropes about UI and UX design.
 
       - layout: left
         title: Game Jam de Québec
@@ -99,7 +99,7 @@ content:
         quote: >
           The playground of game devs in Québec City
         description: | # this will include new lines to allow paragraphs
-            After the COVID-19 Pandemic, with some friends we decided to host and create a physical Game Jam within Québec City, to restore the sparks and conviviality of the video game industry in Québec City.     
+          After the COVID-19 Pandemic, with some friends we decided to host and create a physical Game Jam within Québec City, to restore the sparks and conviviality of the video game industry in Québec City.
 
       - layout: left
         title: Larian Studios Québec
@@ -109,7 +109,7 @@ content:
         quote: >
           Implementing UIs and game features
         description: | # this will include new lines to allow paragraphs
-            My main work on [Baldur's Gate III](https://baldursgate3.game/) is implementing the User Interfaces, working closely with the designers and the other team members, always ready to give hand and feedback to improve the original designs.
+          My main work on [Baldur's Gate III](https://baldursgate3.game/) is implementing the User Interfaces, working closely with the designers and the other team members, always ready to give hand and feedback to improve the original designs.
 
       - layout: left
         title: Larian Studios Ghent
@@ -119,7 +119,7 @@ content:
         quote: >
           First steps in the game industry and discovering Gameplay and UI programmer jobs (and breaking my first builds).
         description: | # this will include new lines to allow paragraphs
-            During my internship at Larian, I discovered how the game development works on a bigger scale, making my first implementations and contributions in [Divinity: Original Sin 2](https://divinity.game/), then later in [Baldur's Gate III](https://baldursgate3.game/).
+          During my internship at Larian, I discovered how the game development works on a bigger scale, making my first implementations and contributions in [Divinity: Original Sin 2](https://divinity.game/), then later in [Baldur's Gate III](https://baldursgate3.game/).
 
       - layout: left
         title: E.C.D.C Arcadémie
@@ -128,7 +128,7 @@ content:
         quote: >
           Teaching while creating a video game with teenagers.
         description: | # this will include new lines to allow paragraphs
-            During this facultative summer internship, we taught children and teenagers how to create a video game, showing the relation between what they're learning in school and how it can be applied in real-life cases.
+          During this facultative summer internship, we taught children and teenagers how to create a video game, showing the relation between what they're learning in school and how it can be applied in real-life cases.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -148,7 +148,7 @@ content:
         sub_title: B.Sc Computer Game Development
         description: |
           During my time in Scotland, I learned how to handle projects and team working, as well improving my english and my communitcation skills.
-          
+
           Outside the university, I spent most of my free time visiting Scotland, learning a new culture and discovering the world from another perspective. But mostly, spending time at the comic shop, practicing my English and playing Dungeons & Dragons, making me think, tell stories and working with a group to achieve our goals.
 
       - layout: left
@@ -157,13 +157,13 @@ content:
         sub_title: 2-year undergraduate diploma in technology
         description: |
           After my A-Level in Scientific (Engineering sciences speciality), I went to do a 2-year undergraduate diploma in technology, which built my computer sciences and algorithm skills, to which I'm still using today.
-          
+
           Outside the university, I discovered Unity and the game jams, being the first step to be in the video game industry.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my background, here are some of my other interests and hobbies:
+      Alongside my work, here are some of my other interests and hobbies:
       - Dungeons & Dragons (and other TTRPGs)
       - Gaming
       - Translating webcomics and videos
