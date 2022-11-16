@@ -1,5 +1,5 @@
 # Site
-repository: benoitbm/my-resume
+repository: benoitbm/benoitbm.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -8,7 +8,7 @@ version: 1
 # Personal info
 name: Benoit Boyer
 title: Technical UI Designer
-#email: 
+email: benoitbm[at]hotmail.fr 
 website: www.benoitbm.fr
 
 # Dark Mode (true/false/never)
@@ -58,10 +58,6 @@ content:
       - layout: top-middle
         title: Baldur's Gate III
         link: baldursgate3.game
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fa-solid fa-gamepad-modern
-            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -74,10 +70,6 @@ content:
       - layout: top-middle
         title: Divinity Original Sin II
         link: divinity.game
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fa-solid fa-gamepad-modern
-            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
