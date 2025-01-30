@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Benoit Boyer
-title: Technical UI Designer
+title: Technical Designer
 email: benoitbm[at]hotmail.fr
 website: www.benoitbm.fr
 
@@ -45,7 +45,9 @@ linkedin_username: benoitbm
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! My name is Benoit and I'm a Technical UI Designer. As well as designing elements, with my computer science background and programming skills, I can design but also implement (or help implementing) new features. My variety of skills and empathy emphasizes teamwork and helps making the project development going smoothly.
+  Hello! My name is Benoit and I'm a Technical Designer. Coming from a Computer Science background (as I have a Master Degree in this field), I've changed careers from a Gameplay/UI Developer to a Technical Designer. With the many game jams and projects done along my insight, I can design but also implement features or prototype ideas. Along that, my range of skills allows me to work with various teams, coordinate, but also help them on various subjects, helping with the development of the project.
+
+  I am currently looking for work in Québec City.
 
   I am most skilled in: <mark>C++</mark> and <mark>WPF</mark>.
 
@@ -80,7 +82,7 @@ content:
         title: Larian Studios Québec
         link: larian.com
         sub_title: Technical UI Designer
-        caption: August 2022 - Present
+        caption: August 2022 - December 2024
         quote: >
           Designing and implementing features (while supporting other team members)
         description: | # this will include new lines to allow paragraphs
