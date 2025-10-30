@@ -47,9 +47,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! My name is Benoit and I'm a Technical Designer. Coming from a Computer Science background (as I have a Master Degree in this field), I've changed careers from a Gameplay/UI Developer to a Technical Designer. With the many game jams and projects done along my insight, I can design but also implement features or prototype ideas. Along that, my range of skills allows me to work with various teams, coordinate, but also help them on various subjects, helping with the development of the project.
 
-  I am currently looking for work in Québec City.
+  I am currently working at Frima Studio in Quebec City.
 
-  I am most skilled in: <mark>C++</mark> and <mark>WPF</mark>.
+  I am most skilled in: <mark>C++</mark>, <mark>WPF</mark> and <mark>Unreal Engine</mark>.
 
   My pronouns are: They/Them/Their.
 
@@ -79,6 +79,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Frima
+        link: frimastudio.com
+        sub_title: Technical UI Designer
+        caption: August 2025 - Today
+        quote: >
+          Designing, implementing and helping my team and our business partners
+        description: | # this will include new lines to allow paragraphs
+          I joined Frima as a Technical UI Designer to bring my expertise earned from my previous work, helping the development of multiple projects with our many business partners, sharing knowledge and helping them solving their issue, while learning and exploring new solutions with my teammates.
+    
+      - layout: left
         title: Larian Studios Québec
         link: larian.com
         sub_title: Technical UI Designer
@@ -92,7 +102,7 @@ content:
         title: Game Jam de Québec
         link: gamejamdequebec.ca
         sub_title: Co-founder
-        caption: April 2022 - Present
+        caption: April 2022 - October 2024
         quote: >
           The playground of game devs in Québec City
         description: | # this will include new lines to allow paragraphs
